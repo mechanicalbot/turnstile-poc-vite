@@ -18,7 +18,7 @@ function App() {
 
   return (
     <div style={{ height: "500px", width: "500px" }}>
-      <div className="cf-turnstile" data-sitekey="0x4AAAAAAA0kQKG3itMFh1EV" />
+      <div className="cf-turnstile" data-sitekey="1x00000000000000000000AA" />
     </div>
   );
 }
